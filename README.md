@@ -1,5 +1,19 @@
 # chat-concept
 
+- [ ] Add message
+- [ ] Add vuex
+- [ ] Get file reference from store (?)
+- [ ] Image viewer
+- [ ] Emoji
+- [ ] Attatchment
+- [ ] Add topic from comment
+- [ ] Add topic from column button
+- [ ] Dark mode
+- [ ] Archive
+- [ ] Collapse navigation
+- [ ] Delete, copy link
+
+
 ## Project setup
 ```
 npm install

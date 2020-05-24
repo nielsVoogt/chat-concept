@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Niels",
+      "last_name": "Voogt",
+      "email": "niels@niels.com",
+      "image_path": "https://www.google.com",
+      "images": [
+        {
+          "id": 1,
+          "type": "IMAGE",
+          "extension": "PNG",
+          "size": 12589,
+          "path": "http://www.google.com",
+          "name": "new_laptop.png"
+        },
+        {
+          "id": 2,
+          "type": "IMAGE",
+          "extension": "JPG",
+          "size": 12589,
+          "path": "http://www.google.com",
+          "name": "our-holiday-on-ice.jpg"
+        }
+      ],
+      "files": [
+        {
+          "id": 1,
+          "extension": "XLS",
+          "size": 12589,
+          "path": "http://www.google.com",
+          "name": "all_lessons.xls"
+        }
+      ],
+      "links": [
+        "https://www.google.com",
+        "https://shampooooooo-for-kittens.nl",
+        "https://www.nos.nl"
+      ],
+      "main": [
+        {
+          "id": 1,
+          "date": "January 01 2020 12:30",
+          "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "status": "UNREAD",
+          "images": [
+            {
+              "id": 1,
+              "type": "IMAGE",
+              "extension": "PNG",
+              "size": 12589,
+              "path": "https://picsum.photos/500",
+              "name": "new_laptop.png"
+            },
+            {
+              "id": 2,
+              "type": "IMAGE",
+              "extension": "JPG",
+              "size": 12589,
+              "path": "https://picsum.photos/501",
+              "name": "our-holiday-on-ice.jpg"
+            }
+          ],
+          "files": [],
+          "user": 1
+        },
+        {
+          "id": 2,
+          "date": "January 01 2020 12:31",
+          "message": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "status": "UNREAD",
+          "images": [],
+          "files": [],
+          "user": 2
+        },
+        {
+          "id": 3,
+          "date": "January 01 2020 12:32",
+          "message": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "status": "UNREAD",
+          "images": [],
+          "files": [
+            {
+              "id": 1,
+              "extension": "XLS",
+              "size": 12589,
+              "path": "http://www.google.com",
+              "name": "all_lessons.xls",
+              "downloaded_at": "January 02 2019"
+            }
+          ],
+          "user": 1
+        }
+      ],
+      "topics": [
+        {
+          "id": 1,
+          "state": "ACTIVE",
+          "title": "Salary negotiations",
+          "created_at": "January 02 2019",
+          "created_by": "Arie",
+          "chat": [
+            {
+              "date": "January 01 2020 12:30",
+              "message": "Lmagna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+              "status": "UNREAD",
+              "images": [
+                {
+                  "id": 1,
+                  "type": "IMAGE",
+                  "extension": "PNG",
+                  "size": 12589,
+                  "path": "https://picsum.photos/499",
+                  "name": "new_laptop.png"
+                }
+              ],
+              "files": [],
+              "user": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
